@@ -61,4 +61,4 @@
 ![Visitor Count](https://komarev.com/ghpvc/?username=amrit3533&color=blue)
 
 <!-- Snake animation -->
-![snake gif](https://github.com/amrit3533/amrit3533/blob/output/github-contribution-grid-snake.svg)
+![GitHub Snake](https://raw.githubusercontent.com/Amrit3533/amrit3533/main/dist/snake.svg)
