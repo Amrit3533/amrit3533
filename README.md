@@ -6,9 +6,8 @@
 ## 👨‍💻 About Me
 - 💼 **Full Stack Developer** with 2 years of experience (specializing in backend)  
 - 🏢 Worked with **IBM** & **SalesQueen Software Solutions**  
-- 🎓 B.Tech CSE (Graduating 2026)  
+- 🎓 B.Tech CSE (Graduated in 2026)  
 - 🌱 Learning **Salesforce Development** & **Apex** along with **Cloud Computing**  
-- 🎯 Goal: **Land a MAANG/FAANG role**  
 - 💬 Ask me about: MERN, Vue.js, REST APIs, SQL, Salesforce, Apex  
 
 ---
@@ -52,8 +51,8 @@
 ---
 
 ## 📬 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amrit-singh)  
-📧 **Email:** amritsinghofficial3533@gmail.com  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amrit3533)  
+📧 **Email:** amritkumar.contact@gmail.com  
 📍 **India**  
 
 ---
